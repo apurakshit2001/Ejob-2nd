@@ -88,7 +88,7 @@ header {
 .heroSection > h1 {
     color: red;
     font-weight: 800;
-    font-size: 3rem; /* Adjusted for better responsiveness */
+    font-size: 5rem; 
     text-align: center;
     position: absolute;
     bottom: 10%;
