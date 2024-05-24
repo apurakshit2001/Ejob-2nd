@@ -44,10 +44,10 @@ To get a local copy up and running, follow these steps:
 
 ## 📷 Screenshots
 
-![Screenshot 1](![image](https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/c714bf47-4147-4184-8664-c6d65e52e8b8)
-)
-![Screenshot 2](![image](https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/44227ca6-2ac2-44b9-801a-6dde0530a369)
-)
+![image](https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/c714bf47-4147-4184-8664-c6d65e52e8b8)
+
+(![image](https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/44227ca6-2ac2-44b9-801a-6dde0530a369)
+
 
 ## 🤝 Contributing
 
