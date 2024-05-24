@@ -4,9 +4,9 @@ Welcome to the repository for my homework assignment. Below, you'll find details
 
 ## 🔗 Live Demo
 
-<p align="center">
-  <a href="https://apurakshit2001.github.io/Ejob-2nd/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Visit-Live%20Demo-brightgreen?style=for-the-badge" alt="Live Demo">
+<p align="center" style="background-color:#f0f0f0; padding:10px; border-radius:10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <a href="https://apurakshit2001.github.io/Ejob-2nd/" style="text-decoration:none; font-size:1.2em; font-weight:bold; color:#4CAF50;">
+    Visit the Live Demo
   </a>
 </p>
 
@@ -17,24 +17,24 @@ This project showcases the work done as part of the homework assignment. It incl
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/c714bf47-4147-4184-8664-c6d65e52e8b8" alt="Screenshot 1" width="45%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
-  <img src="https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/44227ca6-2ac2-44b9-801a-6dde0530a369" alt="Screenshot 2" width="45%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+  <img src="https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/c714bf47-4147-4184-8664-c6d65e52e8b8" alt="Screenshot 1" width="45%" style="border: 1px solid #ddd; border-radius: 10px; padding: 5px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/44227ca6-2ac2-44b9-801a-6dde0530a369" alt="Screenshot 2" width="45%" style="border: 1px solid #ddd; border-radius: 10px; padding: 5px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </p>
 
 ## 🌟 Features
 
 <ul style="list-style-type: none; padding: 0;">
-  <li style="margin-bottom: 10px;"><strong>✔️ User-Friendly Interface:</strong> Designed to be intuitive and easy to navigate.</li>
-  <li style="margin-bottom: 10px;"><strong>✔️ Responsive Design:</strong> Ensures compatibility across different devices.</li>
-  <li style="margin-bottom: 10px;"><strong>✔️ Dynamic Content:</strong> Demonstrates dynamic content loading and interaction.</li>
+  <li style="margin-bottom: 10px; background-color:#e0f7fa; padding:10px; border-radius:5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"><strong>✔️ User-Friendly Interface:</strong> Designed to be intuitive and easy to navigate.</li>
+  <li style="margin-bottom: 10px; background-color:#e0f7fa; padding:10px; border-radius:5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"><strong>✔️ Responsive Design:</strong> Ensures compatibility across different devices.</li>
+  <li style="margin-bottom: 10px; background-color:#e0f7fa; padding:10px; border-radius:5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"><strong>✔️ Dynamic Content:</strong> Demonstrates dynamic content loading and interaction.</li>
 </ul>
 
 ## 🛠️ Technologies Used
 
 <ul style="list-style-type: none; padding: 0;">
-  <li style="margin-bottom: 5px;"><strong>HTML</strong>: For structuring the content.</li>
-  <li style="margin-bottom: 5px;"><strong>CSS3</strong>: For styling and layout.</li>
-  <li style="margin-bottom: 5px;"><strong>JavaScript</strong>: For adding interactivity.</li>
+  <li style="margin-bottom: 5px; background-color:#ffeb3b; padding:10px; border-radius:5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"><strong>HTML</strong>: For structuring the content.</li>
+  <li style="margin-bottom: 5px; background-color:#ffeb3b; padding:10px; border-radius:5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"><strong>CSS3</strong>: For styling and layout.</li>
+  <li style="margin-bottom: 5px; background-color:#ffeb3b; padding:10px; border-radius:5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"><strong>JavaScript</strong>: For adding interactivity.</li>
 </ul>
 
 ## 🚀 Getting Started
