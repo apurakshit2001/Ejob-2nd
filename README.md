@@ -1,7 +1,3 @@
-Making a README file visually appealing can significantly enhance the presentation of your GitHub repository. Here’s a structured and visually engaging template for your README:
-
----
-
 # Homework Assignment
 
 Welcome to the repository for my homework assignment. Below, you'll find details about the project and a direct link to the live demo.
