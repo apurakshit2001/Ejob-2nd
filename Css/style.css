@@ -1,14 +1,19 @@
+@import url(../fonts/Poppins-Black.ttf);
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 body {
     background-color: #272727;
     color: white;
-    font-family: Arial, sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 .navLogocContainer > h1 > img {
@@ -176,6 +181,7 @@ marquee {
 
 .featuredGames .game:hover, .communitySpotlight .member:hover {
     transform: translateY(-5px);
+    box-shadow: inset 2px 2px 2px 2px white;
 }
 
 .featuredGames .game img, .communitySpotlight .member img {
@@ -200,6 +206,22 @@ marquee {
     background-color: #2e2e2e;
     text-align: center;
     border-radius: 8px;
+}
+
+.upArrow{
+    position: relative;
+    padding: 1em 0;
+}
+.arrow{
+    position: fixed;
+    right: 50px;
+    bottom: 80px;
+    padding:5px 10px;
+    box-shadow:  1px 1px 1px 1px white ;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 10px;
 }
 
 .indexFooter {
