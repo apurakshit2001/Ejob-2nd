@@ -1,4 +1,4 @@
-# Homework Assignment
+# Homework Assignment ☮
 
 Welcome to the repository for my homework assignment. Below, you'll find details about the project and a direct link to the live demo.
 
@@ -69,14 +69,3 @@ For any questions or feedback, feel free to reach out:
 
 - **Name**: Arpan Rakshit
 - **Email**: okritrimoj@gmail.com
-
----
-
-Feel free to customize this template further to better suit your project. Here are some additional tips:
-
-1. **Add Emojis**: Use emojis to make sections more visually appealing (e.g., 🎉, 🔧, 📈).
-2. **Include Badges**: Add badges for build status, license, version, etc. (e.g., ![GitHub license](https://img.shields.io/github/license/your-username/your-repo-name)).
-3. **Use Markdown Features**: Take advantage of Markdown's capabilities such as tables, quotes, and lists for better organization.
-4. **Improve Screenshots**: Add more relevant screenshots or GIFs to showcase the project's features.
-
-By following these suggestions, your README will be both informative and engaging for anyone who visits your GitHub repository.
