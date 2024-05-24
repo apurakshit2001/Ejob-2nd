@@ -14,6 +14,13 @@ Welcome to the repository for my homework assignment. Below, you'll find details
 
 This project showcases the work done as part of the homework assignment. It includes various features and functionalities as described below.
 
+## 📷 Screenshots
+
+![image](https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/c714bf47-4147-4184-8664-c6d65e52e8b8)
+
+(![image](https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/44227ca6-2ac2-44b9-801a-6dde0530a369)
+
+
 ## 🌟 Features
 
 - **User-Friendly Interface**: Designed to be intuitive and easy to navigate.
@@ -22,7 +29,7 @@ This project showcases the work done as part of the homework assignment. It incl
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: For structuring the content.
+- **HTML**: For structuring the content.
 - **CSS3**: For styling and layout.
 - **JavaScript**: For adding interactivity.
 
@@ -41,12 +48,6 @@ To get a local copy up and running, follow these steps:
     ```
 
 3. **Open `index.html` in your browser** to view the project.
-
-## 📷 Screenshots
-
-![image](https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/c714bf47-4147-4184-8664-c6d65e52e8b8)
-
-(![image](https://github.com/apurakshit2001/Ejob-2nd/assets/128841242/44227ca6-2ac2-44b9-801a-6dde0530a369)
 
 
 ## 🤝 Contributing
